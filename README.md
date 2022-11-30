@@ -1,5 +1,5 @@
 ### Fala galera! Eu sou o Gabriel Britto
--  Estudando sobre HTML, CSS, JavaScript, PHP e WordPress.
+-  Estudando sobre HTML, CSS, JavaScript, PHP.
 - 💻 Planos para ser um futuro programador.
 - **Workflow**: Linux, Xfce e VSCode.
 <div align="center">
