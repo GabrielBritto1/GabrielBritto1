@@ -1,5 +1,5 @@
 ### Fala galera! Eu sou o Gabriel Britto
--  Estudando sobre HTML, CSS, JavaScript, PHP.
+-  Estudando sobre HTML, CSS, JavaScript, PHP, Java.
 - 💻 Planos para ser um futuro programador.
 - **Workflow**: Linux, Xfce e VSCode.
 <div align="center">
@@ -14,6 +14,7 @@
   <img align="center" alt="Britto-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Britto-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Britto-PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="Britto-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
   
   ##
