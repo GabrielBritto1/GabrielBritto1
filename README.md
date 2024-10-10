@@ -1,7 +1,8 @@
 ### Fala galera! Eu sou o Gabriel Britto
--  Estudando sobre HTML, CSS, JavaScript, PHP, Java.
+-  HTML, CSS, JavaScript, PHP, Java.
+-  Estudando: Laravel.
 - 💻 Planos para ser um futuro programador.
-- **Workflow**: Linux, Xfce e VSCode.
+- **Workflow**: Linux, Xfce, Windows e VSCode.
 <div align="center">
   <a href="https://github.com/GabrielBritto1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBritto1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
