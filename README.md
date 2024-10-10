@@ -3,7 +3,7 @@
 🎯 Gestão Eficiente de Recursos: Gerenciamos as doações de alimentos feitas por diversos parceiros, evitando entregas duplicadas e garantindo que todas as famílias recebam ajuda de forma organizada e sem desperdícios.
 <br>
 🛠️ Qualificação Direcionada: Oferecemos capacitação profissional personalizada, onde o indivíduo é treinado especificamente para uma vaga de emprego já identificada, garantindo uma correspondência direta e eficiente entre capacitação e empregabilidade.
-
+<hr>
 -  HTML, CSS, JavaScript, PHP, Java.
 -  Estudando: Laravel.
 - 💻 Planos para ser um futuro programador.
