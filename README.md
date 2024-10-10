@@ -1,14 +1,15 @@
-### Fala galera! Eu sou o Gabriel Britto
-#### Atualmente sou desenvolvedor em um projeto chamado _Projeto Ciclos_, que é um projeto de:
+## Fala galera! Eu sou o Gabriel Britto
+### Atualmente sou desenvolvedor em um projeto chamado _Projeto Ciclos_, que é um projeto de:
 🎯 Gestão Eficiente de Recursos: Gerenciamos as doações de alimentos feitas por diversos parceiros, evitando entregas duplicadas e garantindo que todas as famílias recebam ajuda de forma organizada e sem desperdícios.
+
 <br>
+
 🛠️ Qualificação Direcionada: Oferecemos capacitação profissional personalizada, onde o indivíduo é treinado especificamente para uma vaga de emprego já identificada, garantindo uma correspondência direta e eficiente entre capacitação e empregabilidade.
 
 <hr>
 
 -  HTML, CSS, JavaScript, PHP, Java.
 -  Estudando: Laravel.
-- 💻 Planos para ser um futuro programador.
 - **Workflow**: Linux, Xfce, Windows e VSCode.
 <div align="center">
   <a href="https://github.com/GabrielBritto1">
@@ -32,5 +33,3 @@
   <a href="https://www.instagram.com/gabriel_bianchi_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gabriel-britto-47a9a0193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-
-  ![snake gif](https://github.com/GabrielBritto1/GabrielBritto1/blob/output/github-contribution-grid-snake.svg)
