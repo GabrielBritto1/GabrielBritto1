@@ -1,6 +1,6 @@
 ### Fala galera! Eu sou o Gabriel Britto
 #### Atualmente sou desenvolvedor em um projeto chamado _Projeto Ciclos_, que é um projeto de:
-🎯 Gestão Eficiente de Recursos: Gerenciamos as doações de alimentos feitas por diversos parceiros, evitando entregas duplicadas e garantindo que todas as famílias recebam ajuda de forma organizada e sem desperdícios.
+🎯 Gestão Eficiente de Recursos: Gerenciamos as doações de alimentos feitas por diversos parceiros, evitando entregas duplicadas e garantindo que todas as famílias recebam ajuda de forma organizada e sem desperdícios.\n
 🛠️ Qualificação Direcionada: Oferecemos capacitação profissional personalizada, onde o indivíduo é treinado especificamente para uma vaga de emprego já identificada, garantindo uma correspondência direta e eficiente entre capacitação e empregabilidade.
 
 -  HTML, CSS, JavaScript, PHP, Java.
