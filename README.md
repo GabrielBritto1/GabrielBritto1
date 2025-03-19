@@ -8,7 +8,6 @@
 
 -  HTML, CSS, JavaScript, PHP, Laravel.
 -  Banco de dados: MySQL.
-/*-  Estudando: Laravel.*/
 - **Workflow**: Linux, Xfce, Windows e VSCode.
 <div align="center">
   <a href="https://github.com/GabrielBritto1">
