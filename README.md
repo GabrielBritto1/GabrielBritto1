@@ -4,7 +4,7 @@
 
 🛠️ **Qualificação Direcionada**: Oferecemos capacitação profissional personalizada, onde o indivíduo é treinado especificamente para uma vaga de emprego já identificada, garantindo uma correspondência direta e eficiente entre capacitação e empregabilidade.
 
-### Hoje atuo como desenvolvedor e TechLead na RADA (<a href="https://radabrasil.com.br">*Nosso Site*</a>)
+### Hoje atuo como desenvolvedor e TechLead na RADA (<a href="https://radabrasil.com.br" target="_blank">*Nosso Site*</a>)
 
 <hr>
 
