@@ -1,36 +1,73 @@
-## Fala galera! Eu sou o Gabriel Britto
-### Fiz parte de uma equipe de desenvolvimento em um projeto chamado _Projeto Ciclos_, que é um projeto de:
-🎯 **Gestão Eficiente de Recursos**: Gerenciamos as doações de alimentos feitas por diversos parceiros, evitando entregas duplicadas e garantindo que todas as famílias recebam ajuda de forma organizada e sem desperdícios.
+<h1 align="center">Gabriel Bianchi Britto</h1>
 
-🛠️ **Qualificação Direcionada**: Oferecemos capacitação profissional personalizada, onde o indivíduo é treinado especificamente para uma vaga de emprego já identificada, garantindo uma correspondência direta e eficiente entre capacitação e empregabilidade.
+<p align="center">
+  Desenvolvedor full-stack em Jerônimo Monteiro – ES.<br>
+  Construo sistemas completos, do problema de negócio até a operação em produção.
+</p>
 
-### Hoje atuo como desenvolvedor e TechLead na RADA (<a href="https://radabrasil.com.br" target="_blank">*Nosso Site*</a>)
+---
 
-<hr>
+### Agora
 
--  HTML, CSS, JavaScript, PHP, Laravel.
--  Banco de dados: MySQL.
-- **Workflow**: MacOS, Windows e VSCode.
-<div align="center">
-  <a href="https://github.com/GabrielBritto1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBritto1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBritto1&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Britto-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Britto-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Britto-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Britto-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-<!--   <img align="center" alt="Britto-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> -->
-  <img align="center" alt="Britto-MySql" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Britto-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
-</div>
-  
-  ##
-  
-  <div> 
-  <a href="https://wa.me/5528999391992" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://www.instagram.com/gabriel_bianchi_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/gabriel-britto-47a9a0193/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
+**Sócio e desenvolvedor na [ORBTEX](https://orbtexbrasil.com.br).** Trabalho no [Gestão 360º](https://gestao.orbtexbrasil.com.br), um CRM para corretoras de seguro, saúde e consórcio, e no Events, de gestão de eventos e participantes.
+
+**Fundador da [DataCycle Tech](https://datacycletech.com.br).** Lá mantenho quatro sistemas próprios em produção. Cada um existe por causa de uma regra de negócio:
+
+| Sistema | Para quem | A regra que ele protege |
+| :-- | :-- | :-- |
+| **RECeBa** | Projeto Ciclos, IFES Campus de Alegre | Doações de vários parceiros, sem entrega duplicada para a mesma família |
+| **[PSY Task](https://psytask.com.br)** | Psicólogos e clínicas | O prontuário clínico fica separado da gestão do consultório |
+| **[Eloziva](https://eloziva.datacycletech.com.br)** | Famílias e cuidadores em casa | Uma dose sem confirmação nunca é registrada como "não tomada" |
+| **[Rota](https://rota.datacycletech.com.br)** | Profissionais autônomos | Na conciliação de check-ins, o nome do aluno não basta para identificá-lo |
+
+### Antes
+
+Desenvolvedor e Tech Lead na RADA. Fiz parte da equipe do **Projeto Ciclos**, que organiza doações de alimentos e oferece capacitação profissional direcionada a vagas já identificadas. O RECeBa nasceu ali e virou meu TCC em Análise e Desenvolvimento de Sistemas no IFES Campus de Alegre.
+
+### Ferramentas
+
+- **Linguagens e frameworks:** HTML, CSS, JavaScript, PHP, Laravel, Livewire, Tailwind CSS e Alpine.js
+- **Banco de dados:** MySQL
+- **Mobile:** React Native com Expo
+- **Workflow:** macOS, Windows e VS Code
+
+<p>
+  <img alt="HTML" title="HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">&nbsp;
+  <img alt="CSS" title="CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">&nbsp;
+  <img alt="JavaScript" title="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">&nbsp;
+  <img alt="PHP" title="PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">&nbsp;
+  <img alt="Laravel" title="Laravel" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg">&nbsp;
+  <img alt="Livewire" title="Livewire" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg">&nbsp;
+  <img alt="Tailwind CSS" title="Tailwind CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">&nbsp;
+  <img alt="Alpine.js" title="Alpine.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg">&nbsp;
+  <img alt="MySQL" title="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">&nbsp;
+  <img alt="React Native" title="React Native" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+</p>
+
+### No GitHub
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielBritto1/GabrielBritto1/main/profile-summary-card-output/github_dark/3-stats.svg">
+    <img alt="Estatísticas de commits, PRs e issues" height="170" src="https://raw.githubusercontent.com/GabrielBritto1/GabrielBritto1/main/profile-summary-card-output/default/3-stats.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielBritto1/GabrielBritto1/main/profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img alt="Linguagens com mais commits" height="170" src="https://raw.githubusercontent.com/GabrielBritto1/GabrielBritto1/main/profile-summary-card-output/default/2-most-commit-language.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielBritto1/GabrielBritto1/output/cobrinha-dark.svg">
+    <img alt="Cobrinha percorrendo o gráfico de contribuições" src="https://raw.githubusercontent.com/GabrielBritto1/GabrielBritto1/output/cobrinha.svg">
+  </picture>
+</p>
+
+### Vamos conversar
+
+<p>
+  <a href="https://wa.me/5528999391992"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/gabriel-bianchi-britto/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/gabriel_bianchi_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
