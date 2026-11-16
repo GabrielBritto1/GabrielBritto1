@@ -1,7 +1,7 @@
 <h1 align="center">Gabriel Bianchi Britto</h1>
 
 <p align="center">
-  Desenvolvedor full-stack em Jerônimo Monteiro – ES.<br>
+  Desenvolvedor full-stack.<br>
   Construo sistemas completos, do problema de negócio até a operação em produção.
 </p>
 
